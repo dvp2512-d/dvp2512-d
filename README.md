@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, Dhruvil Patel</h1>
+<h1 align="center">Hey Everyone 👋,I'm Dhruvil Patel</h1>
 
 <h3 align="center">A passionate DevOps & Cloud Engineer.</a></h3>
 
@@ -7,10 +7,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
- 
-- 📫 How to reach me pateldvp84472@gmail.com
----
+<img align="right" alt="Coding" width="270" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -29,4 +26,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvp2512-d&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dvp2512-d&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
 
